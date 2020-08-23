@@ -14,7 +14,7 @@ h1
 }
 section
 {
-	display: inline;
+	display: inline-block;
 }
 img
 {
@@ -57,7 +57,7 @@ div
 }
 #sectiontwo
 {
-	width: 78%;
+	width: 70%;
 }
 body
 {
