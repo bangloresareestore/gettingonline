@@ -1,0 +1,163 @@
+h1
+{
+	font-family: "Comic Sans MS";
+	text-align: center;
+	font-size: 300%;
+	color: #FFFFFF; 
+	 margin:2%;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+h1
+{
+	background-color: #000066;
+}
+section
+{
+	display: inline-block;
+}
+img
+{
+  width: 25%;
+  height: auto;
+}
+details
+{
+	display: inline-grid;
+}
+img
+{
+	size: 40px*50px;
+    transition-property: size;
+    transition-duration: 0.01 sec;
+    transition-delay: 0.1 sec;
+    transform-style: linear;
+}
+img:focus
+{
+	size: 80px*80px;
+}
+#sectionone
+{
+	width: 18%;
+	position: fixed;
+}
+div
+{
+    background-color: #000066;
+    margin:2%;
+	padding-left: 3%;
+	padding-top: 10vh;
+	padding-bottom: 20vh;
+	border-radius: -webkit-30px; 
+          border-radius: -o-30px; 
+            border-radius: -moz-30px;
+            border-radius: 30px;
+            color: #FFFFFF;
+}
+#sectiontwo
+{
+	width: 78%;
+}
+body
+{
+	background-color: #FFFFFF;
+	color: #000066;
+	opacity: 0.8;
+	overflow: auto;
+}
+#grid-item {
+  display: inline-block;
+  grid-template-columns: auto auto auto auto;
+}
+h4
+{
+	font-size: 150%;
+	color: #FFFFFF;
+}
+h2
+{
+	color: #000066;
+	text-decoration: underline;
+}
+summary
+{
+	text-decoration: underline;
+}
+button
+{
+	background-color: #FFFFFF;
+	border-color: #000066 ;
+	border-radius: -webkit-5x; 
+          border-radius: -o-5px; 
+            border-radius: -moz-5px;
+            border-radius: 5px;
+}
+button:hover
+{
+	background-color: #000066;
+	color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+nav
+{
+	text-align: center;
+	text-decoration: none;
+	
+}
+a
+{
+	text-decoration: none;
+	color: #FFFFFF;
+	opacity: 0.8;
+}
+a:hover
+{
+	border-color: #000066;
+	opacity: 1.5;
+	font-size: 150%;
+}
+a:visited
+{
+	font-size: 150%;
+}
+ul
+{
+ list-style: circle;
+            /*text-shadow: 2px 2px 5px #FF3333;*/
+}
+button
+{
+	width: 15%;
+
+}
+body
+{
+	border-style: solid;
+	border-color: #000066; 
+	/*border-color: -webkit-(#990033, #FFCCCC); 
+          border-color: -o-(#990033, #FFCCCC); 
+            border-color: -moz-(#990033, #FFCCCC);
+            border-color: (#990033, #FFCCCC);*/
+            border-width: 10px;
+}
+h3
+{
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 200%;
+
+}
+h5
+{
+	font-family: "Comic Sans MS";
+	text-align: center;
+	background-color: #000066; 
+	color: #FFFFFF; 
+	 margin:2%;
+	padding-left: 3%;
+	padding-right: 3%;
+	font-size: 150%;
+	position: relative;
+	right: 5px;
+}
