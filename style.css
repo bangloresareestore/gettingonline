@@ -14,7 +14,7 @@ h1
 }
 section
 {
-	display: inline-block;
+	display: block;
 }
 img
 {
@@ -39,7 +39,7 @@ img:focus
 }
 #sectionone
 {
-	width: 18%;
+	/*width: 18%;*/
 	position: fixed;
 }
 div
@@ -55,10 +55,10 @@ div
             border-radius: 30px;
             color: #FFFFFF;
 }
-#sectiontwo
+/*#sectiontwo
 {
 	width: 78%;
-}
+}*/
 body
 {
 	background-color: #FFFFFF;
