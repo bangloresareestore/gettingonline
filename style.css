@@ -123,7 +123,7 @@ a:visited
 }
 ul
 {
- list-style: circle;
+ list-style: none;
             /*text-shadow: 2px 2px 5px #FF3333;*/
 }
 button
