@@ -40,16 +40,16 @@ img:focus
 }
 #sectionone
 {
-	width: 18%;
-	position: relative;
+	width: 18vh;
+	position: fixed;
 }
 div
 {
     background-color: #000066;
     margin:2%;
 	padding-left: 3%;
-	padding-top: 10vh;
-	padding-bottom: 20vh;
+	padding-top: 5vh;
+	padding-bottom: 5vh;
 	border-radius: -webkit-30px; 
           border-radius: -o-30px; 
             border-radius: -moz-30px;
@@ -58,7 +58,7 @@ div
 }
 #sectiontwo
 {
-	width: 78%;
+	width: 70vh;
 }
 body
 {
