@@ -13,6 +13,21 @@ h1
 {
 	background-color: #000066;
 }
+header
+{
+font-family: "Comic Sans MS";
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 300%;
+	color: #FFFFFF; 
+	 margin:2%;
+	padding-left: 3%;
+	padding-right: 3%;	
+}
+header
+{
+background-color: #000066;
+}
 section
 {
 	display: inline-block;
