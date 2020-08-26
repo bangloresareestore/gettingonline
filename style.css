@@ -18,6 +18,10 @@ header
 	 margin:2%;
 	padding-left: 3%;
 	padding-right: 3%;	
+	border-radius: -webkit-30px; 
+          border-radius: -o-30px; 
+            border-radius: -moz-30px;
+            border-radius: 30px;
 }
 header
 {
