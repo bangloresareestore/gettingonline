@@ -114,6 +114,7 @@ nav a
 	display: block;
 	transition: 0.5s background-color;
 	color: #000066;
+	background-color: #003399;
 }
 nav a:hover
 {
