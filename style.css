@@ -41,7 +41,7 @@ img:focus
 #sectionone
 {
 	width: 18%;
-	position: fixed;
+	position: relative;
 }
 div
 {
