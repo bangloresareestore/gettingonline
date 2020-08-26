@@ -114,6 +114,7 @@ nav a
 	display: block;
 	color: #000066;
 	margin-right: 10px;
+	background-color: #003399;
 	transition: 0.5s background-color;
 }
 nav a:hover
@@ -145,7 +146,6 @@ nav li li
 nav ul
 {
 	list-style: none;
-	background-color: #003399;
 }
 nav li
 {
