@@ -1,8 +1,8 @@
 h1
 {
 	font-family: "Comic Sans MS";
-        text-transform: uppercase;
 	text-align: center;
+	text-transform: uppercase;
 	font-size: 300%;
 	color: #FFFFFF; 
 	 margin:2%;
@@ -15,7 +15,7 @@ h1
 }
 section
 {
-	display: block;
+	display: inline-block;
 }
 img
 {
@@ -24,7 +24,7 @@ img
 }
 details
 {
-	display: block;
+	display: inline-grid;
 }
 img
 {
@@ -40,7 +40,7 @@ img:focus
 }
 #sectionone
 {
-	/*width: 18%;*/
+	width: 18%;
 	position: fixed;
 }
 div
@@ -48,18 +48,18 @@ div
     background-color: #000066;
     margin:2%;
 	padding-left: 3%;
-	padding-top: 5vh;
-	padding-bottom: 5vh;
+	padding-top: 10vh;
+	padding-bottom: 20vh;
 	border-radius: -webkit-30px; 
           border-radius: -o-30px; 
             border-radius: -moz-30px;
             border-radius: 30px;
             color: #FFFFFF;
 }
-/*#sectiontwo
+#sectiontwo
 {
 	width: 78%;
-}*/
+}
 body
 {
 	background-color: #FFFFFF;
@@ -124,7 +124,7 @@ a:visited
 }
 ul
 {
- list-style: square;
+ list-style: circle;
             /*text-shadow: 2px 2px 5px #FF3333;*/
 }
 button
