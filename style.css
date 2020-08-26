@@ -112,9 +112,10 @@ nav a
 	text-align: center;
 	text-decoration: none;
 	display: block;
-	transition: 0.5s background-color;
 	color: #000066;
 	background-color: #003399;
+	margin: 4px;
+	transition: 0.5s background-color;
 }
 nav a:hover
 {
