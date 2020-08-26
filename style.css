@@ -107,12 +107,63 @@ button:hover
 	color: #FFFFFF;
 	border-color: #FFFFFF;
 }
-nav
+nav a
 {
 	text-align: center;
 	text-decoration: none;
-	
+	display: block;
+	transition: 0.5s background-color;
+	color: #000066;
 }
+nav a:hover
+{
+	background-color: #000066;
+	color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+nav li
+{
+	background-color: #FFFFFF;
+	border-color: #000066 ;
+            line-height: 50px;
+            height: 50px;
+	border-right: 0.3px solid blue;
+	color: #000066;
+	display: inline;
+	width: 20%;
+}
+nav li:last child
+{
+	border-right: none;
+}
+nav li li
+{
+	border-right: none;
+	display: block;
+}
+nav ul
+{
+	list-style: none;
+}
+nav li
+{
+	display: inline-block;
+	line-height: 30px;
+}
+nav li ul
+{
+	position: absolute;
+	display: none;
+	width: inherit;
+}
+nav li:hover ul
+{
+	display: block;
+}
+nav li ul li
+{
+	display: block;
+	}
 a
 {
 	text-decoration: none;
