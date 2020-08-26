@@ -24,7 +24,7 @@ img
 }
 details
 {
-	display: inline-grid;
+	display: block;
 }
 img
 {
