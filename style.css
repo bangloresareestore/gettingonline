@@ -13,20 +13,10 @@ h1
 {
 	background-color: #000066;
 }
-header
+h6
 {
-	 margin:2%;
-	padding-left: 3%;
-	padding-right: 3%;	
-	border-radius: -webkit-30px; 
-          border-radius: -o-30px; 
-            border-radius: -moz-30px;
-            border-radius: 30px;
-	line-spacing: 2px;
-}
-header
-{
-background-color: #000066;
+font-size: 200%;
+color: #000066;
 }
 section
 {
