@@ -22,6 +22,7 @@ header
           border-radius: -o-30px; 
             border-radius: -moz-30px;
             border-radius: 30px;
+	line-spacing: 2px;
 }
 header
 {
