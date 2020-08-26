@@ -113,8 +113,7 @@ nav a
 	text-decoration: none;
 	display: block;
 	color: #000066;
-	background-color: #003399;
-	margin: 4px;
+	margin-right: 10px;
 	transition: 0.5s background-color;
 }
 nav a:hover
@@ -146,6 +145,7 @@ nav li li
 nav ul
 {
 	list-style: none;
+	background-color: #003399;
 }
 nav li
 {
