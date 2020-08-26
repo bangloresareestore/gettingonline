@@ -38,11 +38,11 @@ img:focus
 {
 	size: 80px*80px;
 }
-#sectionone
+/*#sectionone
 {
-	width: 18vh;
+	width: 18%;
 	position: fixed;
-}
+}*/
 div
 {
     background-color: #000066;
@@ -56,10 +56,10 @@ div
             border-radius: 30px;
             color: #FFFFFF;
 }
-#sectiontwo
+/*#sectiontwo
 {
-	width: 70vh;
-}
+	width: 78%;
+}*/
 body
 {
 	background-color: #FFFFFF;
